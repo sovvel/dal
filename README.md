@@ -2,8 +2,11 @@
 
 ## Introduction
 
-This repository contains source code for the experiments described in the following paper:\
-__Breaching the Bottleneck: Evolutionary Transition from Reward-Driven Learning to Reward-Agnostic Domain-Adapted Learning in Neuromodulated Neural Nets__
+This repository collects source code for our research on Domain-Adapted Learning (DAL).
+
+The code and instructions currently available here are for the ALIFE2024 paper __"Breaching the Bottleneck: Evolutionary Transition from Reward-Driven Learning to Reward-Agnostic Domain-Adapted Learning in Neuromodulated Neural Nets"__.
+
+Code for the ALIFE2025 paper __"Reward-Agnostic Learning of Locomotion in Individualised Bodies Using Reward as an Evolutionary Stepping Stone"__ will be added here soon (pending release permission).
 
 ### Dependencies
 ```
